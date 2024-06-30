@@ -1,2 +1,3 @@
-# Task-2
-My task-2 from full stack web development internship 
+#TASK-2
+Below are the output link for the given task :-
+https://anil-kumar111.github.io/Task-2/
